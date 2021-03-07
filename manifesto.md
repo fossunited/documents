@@ -32,8 +32,8 @@ for themselves.
 
 ## Be Nice and Welcoming
 
-Be and nice and welcoming to everyone in the community. Avoid language
-that will hurt anyone and make them feel less welcoming.
+Be nice and welcoming to everyone in the community. Avoid language
+that will hurt anyone or make them feel less welcoming.
 
 ## Disagree With Respect
 
